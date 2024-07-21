@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Arslan!  
   
 
-I am engaged in full-stack development. I write backend using .NET Core, and frontend using React.  
+Full-stack developer. Backend using .NET Core, frontend using React.  
 
 
 <br/>  
